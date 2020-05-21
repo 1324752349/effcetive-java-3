@@ -23,8 +23,6 @@ public enum Operation {
      *  must override this method
      *  if add a Enum type
      *  we can override this method to computer a result
-     */
-    /**
      * if every enum has small action
      * a  abstract method is a good choice
      */
